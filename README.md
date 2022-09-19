@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Tolu's github stats](https://github-readme-stats.vercel.app/api?username=toluisjoel)](https://github.com/toluisjoel/github-readme-stats)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toluisjoel&layout=compact" alt="My github top languages" />
