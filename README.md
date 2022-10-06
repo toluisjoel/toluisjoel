@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Tolu's github stats](https://github-readme-stats.vercel.app/api?username=toluisjoel)](https://github.com/toluisjoel/github-readme-stats)
+[![@toluisjoel's Holopin board](https://holopin.io/api/user/board?user=toluisjoel)](https://holopin.io/@toluisjoel)
